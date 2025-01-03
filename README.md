@@ -1,2 +1,3 @@
 # mobile-first
-Responsividade com mobile-first do curso Alura
+
+Responsividade com mobile-first do curso Alura.
