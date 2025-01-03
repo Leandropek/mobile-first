@@ -1,0 +1,10 @@
+@import url("css-sections/header.css");
+
+:root {
+    --cor-cinza: #c4c4c4;
+    --cor-branco: #ffffff;   
+}
+
+body {
+    background-color: var(--cor-cinza);
+}
